@@ -1,0 +1,53 @@
+.form_container {
+	background-color: white;
+	margin: 2% 10% 2% 10%;
+	widht: 50%;
+	height: auto;
+	padding: 3%;
+}
+
+.form_head {
+	text-align: center;
+	font-size: 200%;
+	font-weight: bold;
+}
+
+.form_group {
+	margin: 1% 20% 1% 20%;
+}
+
+.form_label {
+	display: block;
+	font-size: 120%;
+	margin: 1% 0% 1% 0%;
+	font-weight: bold;
+}
+
+.form_input {
+	font-size: 120%;
+	line-height: 200%;
+	width: 100%;
+}
+
+.form_drop {
+	font-size: 120%;
+	line-height: 200%;
+	width: 100%;
+}
+
+.form_input_textarea {
+	font-size: 150%;
+	outline: 0 none;
+	line-height: 200%;
+	width: 100%;
+}
+
+.form_button {
+	font-size: 120%;
+	line-height: 200%;
+	width: 100%;
+	border: none;
+	background-color: #21618C;
+	padding: 1% 0% 1% 0%;
+	color: white;
+}
